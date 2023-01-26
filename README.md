@@ -1,2 +1,2 @@
-# group_project_eb_cd_bl_rs
-Food access in Washington DC
+# Food Access in the City of Washington DC
+
