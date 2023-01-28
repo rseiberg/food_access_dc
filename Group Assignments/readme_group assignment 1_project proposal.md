@@ -1,6 +1,8 @@
 ## Group Assignment 1. Project Proposal: Food Access in the City of Washington D.C. ##
 🍊***Group Members***: Emily Biro, Christopher Do, Brittney Lu, Rachel Seiberg
 
+[link to project proposal in group repo](https://github.com/rseiberg/food_access_dc/blob/main/Group%20Assignments/readme_group%20assignment%201_project%20proposal.md)
+
 ### Introduction to Research Question ###
 
 This group project will assess the overall food environment in the City of Washington D.C. by identifying and mapping food amenities and disamenities across all D.C. wards. We intend to use a variety of indicators to address the following research question(s):
