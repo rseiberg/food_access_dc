@@ -1,5 +1,5 @@
 ## Group Assignment 1. Project Proposal: Food Access in the City of Washington D.C. ##
-***Group Members***: Emily Biro, Christopher Do, Brittney Lu, Rachel Seiberg
+🍊***Group Members***: Emily Biro, Christopher Do, Brittney Lu, Rachel Seiberg
 
 ### Introduction to Research Question ###
 
