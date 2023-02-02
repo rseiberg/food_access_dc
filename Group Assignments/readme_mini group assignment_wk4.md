@@ -17,16 +17,16 @@ Overall, morale is high! We've had good communication so far, and anticipate tha
 
 ***Data Updates***
 
-Emily Biro [Healthy Corner Stores, 2018](https://opendata.dc.gov/datasets/DCGIS::healthy-corner-stores/explore?location=38.890899%2C-77.026467%2C12.53)
+Emily Biro - [Healthy Corner Stores, 2018](https://opendata.dc.gov/datasets/DCGIS::healthy-corner-stores/explore?location=38.890899%2C-77.026467%2C12.53)
 * Begun data exploration and digging into potential relationships between income variation and healthy corner store locations within the different wards in DC i.e. higher concentration of high income areas and healthy corner store locations, concentration of locations nearby certain neighborhood indicators, etc.
 
-Christopher Do [Grocery Store Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::grocery-store-locations/about)
+Christopher Do - [Grocery Store Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::grocery-store-locations/about)
 *   
 
-Brittney Lu [Food Bank Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::joyful-food-market/explore?location=38.890868%2C-77.026467%2C12.53)
-*    
+Brittney Lu - [Food Bank Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::joyful-food-market/explore?location=38.890868%2C-77.026467%2C12.53)
+* Identifying any relationships between population density across various census tracts / neighborhoods / wards to see if there is a sufficient number of food banks in a given location compared to the surrounding density. Ideally, where there is greater population density, there would be a higher count of food banks to meet the demand. Eventually, I would also like to overlay this data with my teammates to see if there is a relationship between density, race, income, and available food banks. 
 
-Rachel Seiberg [Low Food Access Areas, 2018](https://opendata.dc.gov/datasets/DCGIS::low-food-access-areas/explore?location=38.890868%2C-77.026467%2C12.53)
+Rachel Seiberg - [Low Food Access Areas, 2018](https://opendata.dc.gov/datasets/DCGIS::low-food-access-areas/explore?location=38.890868%2C-77.026467%2C12.53)
 * Looking at the relationship between race/ethnicity and low food access areas. I intend to look at the city scale, as well as at the ward scale, because I discovered last week just how segregated D.C.’s wards are. I expect to see more low food access areas in the eastern part of D.C., specifically the SE ward.
 * I am utilizing Social Explorer data on race/ethnicity and Open Data D.C.’s data on low food access areas from 2018. 
 
