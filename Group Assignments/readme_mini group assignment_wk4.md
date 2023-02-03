@@ -23,7 +23,7 @@ Emily Biro - [Healthy Corner Stores, 2018](https://opendata.dc.gov/datasets/DCGI
 Christopher Do - [Grocery Store Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::grocery-store-locations/about)
 *   
 
-Brittney Lu - [Food Bank Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::joyful-food-market/explore?location=38.890868%2C-77.026467%2C12.53)
+Brittney Lu - [Food Bank Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::capital-area-food-bank-emergency-food-provider/about)
 * Identifying any relationships between population density across various census tracts / neighborhoods / wards to see if there is a sufficient number of food banks in a given location compared to the surrounding density. Ideally, where there is greater population density, there would be a higher count of food banks to meet the demand. Eventually, I would also like to overlay this data with my teammates to see if there is a relationship between density, race, income, and available food banks. 
 
 Rachel Seiberg - [Low Food Access Areas, 2018](https://opendata.dc.gov/datasets/DCGIS::low-food-access-areas/explore?location=38.890868%2C-77.026467%2C12.53)
