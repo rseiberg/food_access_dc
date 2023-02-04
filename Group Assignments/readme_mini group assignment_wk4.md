@@ -21,10 +21,10 @@ Emily Biro - [Healthy Corner Stores, 2018](https://opendata.dc.gov/datasets/DCGI
 * Begun data exploration and digging into potential relationships between income variation and healthy corner store locations within the different wards in DC i.e. higher concentration of high income areas and healthy corner store locations, concentration of locations nearby certain neighborhood indicators, etc.
 
 Christopher Do - [Grocery Store Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::grocery-store-locations/about)
-*   
+* Identifying any relationships between vehicle ownership and grocery store data, specifically looking to calculate distance from each grocery store. 
 
 Brittney Lu - [Food Bank Locations, 2018](https://opendata.dc.gov/datasets/DCGIS::capital-area-food-bank-emergency-food-provider/about)
-* Identifying any relationships between population density across various census tracts / neighborhoods / wards to see if there is a sufficient number of food banks in a given location compared to the surrounding density. Ideally, where there is greater population density, there would be a higher count of food banks to meet the demand. Eventually, I would also like to overlay this data with my teammates to see if there is a relationship between density, race, income, and available food banks. 
+* Identifying any relationships between population density across various census tracts / neighborhoods / wards to see if there is a sufficient number of food banks in a given location compared to the surrounding density. Ideally, where there is greater population density, there would be a higher count of food banks to meet the demand. 
 
 Rachel Seiberg - [Low Food Access Areas, 2018](https://opendata.dc.gov/datasets/DCGIS::low-food-access-areas/explore?location=38.890868%2C-77.026467%2C12.53)
 * Looking at the relationship between race/ethnicity and low food access areas. I intend to look at the city scale, as well as at the ward scale, because I discovered last week just how segregated D.C.’s wards are. I expect to see more low food access areas in the eastern part of D.C., specifically the SE ward.
@@ -36,6 +36,7 @@ Major Concerns
 1. Not enough data points for each dataset to display meaningful connections/relationships 
 2. Too many variables and indicators - we will need to decide which census variable we want to focus on as it relates to our food access variables
 3. Appropriate execution of codes in Python to display useful data
+4. Ability to convert and merge different data types. For example, many of our indicator datasets do not use FIPS, but instead operate with a lat-long coordinate system. Working to find solutions on this!
 
 Minor Concerns
 1. Time management
